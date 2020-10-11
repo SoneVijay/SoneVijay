@@ -1,4 +1,4 @@
-<img src="Giphy.gif"></img>
+<img src="giphy.gif"></img>
 ## Annyeong, I'm Vijay! :point_right::smirk::point_left:
 > 21 Years Old<br>
   Parara Sur, Tigbauan, Iloilo <br>
