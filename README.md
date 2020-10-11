@@ -1,4 +1,11 @@
 ### Annyeong! :pray::pray:
+
+I'm a Third Year student of West Visayas State University taking up Bacheclor of Science in Information Technology - Major in Software Technologies.
+
+#### 🌱 I’m currently learning
+Flutter
+#### ⚡ Fun fact:
+I love KPOP so much!
 <!--
 **SoneVijay/SoneVijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
