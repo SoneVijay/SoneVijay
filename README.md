@@ -1,6 +1,10 @@
-## Annyeong, I'm Vijay! :wave::blush:
-I'm a Third Year student of West Visayas State University taking up Bacheclor of Science in Information Technology - Major in Software Technologies.
-
+<img src="Giphy.gif"/>
+## Annyeong, I'm Vijay! :point_right::smirk::point_left:
+> 21 Years Old<br>
+  Parara Sur, Tigbauan, Iloilo <br>
+  West Visayas State University<br>
+  Bachelor of Science in Information Technology - Major in Systems Technology<br>
+  
 #### 🌱 I’m currently learning
 Flutter
 #### ⚡ Fun fact:
