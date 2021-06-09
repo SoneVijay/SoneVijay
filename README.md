@@ -9,7 +9,7 @@
 Flutter
 #### ⚡ Fun fact:
 I love KPOP so much!
-####📫 How to reach me: vtangub@wvsu.edu.ph
+#### 📫 How to reach me: vtangub@wvsu.edu.ph
 <!--
 **SoneVijay/SoneVijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
