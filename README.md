@@ -3,7 +3,7 @@
 > 22 Years Old<br>
   Parara Sur, Tigbauan, Iloilo <br>
   West Visayas State University<br>
-  Bachelor of Science in Information Technology - Major in Systems Technology<br>
+  Bachelor of Science in Information Technology - Major in Software Technology<br>
   
 #### 🌱 I’m currently learning
 Flutter
