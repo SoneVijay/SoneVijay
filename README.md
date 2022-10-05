@@ -1,6 +1,6 @@
-<img src="giphy.gif"></img>
-## Annyeong, I'm Vijay! :point_right::smirk::point_left:
-> 22 Years Old<br>
+
+## Hello, I'm Vijay! :point_right::smirk::point_left:
+> 23 Years Old<br>
   Parara Sur, Tigbauan, Iloilo <br>
   West Visayas State University<br>
   Bachelor of Science in Information Technology - Major in Software Technology<br>
@@ -9,7 +9,7 @@
 Flutter
 #### ⚡ Fun fact:
 I love KPOP so much!
-#### 📫 How to reach me: vtangub@wvsu.edu.ph
+#### 📫 How to reach me: vjay.tangub@gmail.com
 <!--
 **SoneVijay/SoneVijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
