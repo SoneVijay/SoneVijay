@@ -1,12 +1,7 @@
 
 ## Hello, I'm Vijay! :point_right::smirk::point_left:
-> 23 Years Old<br>
-  Parara Sur, Tigbauan, Iloilo <br>
-  West Visayas State University<br>
-  Bachelor of Science in Information Technology - Major in Software Technology<br>
+
   
-#### 🌱 I’m currently learning
-Flutter
 #### ⚡ Fun fact:
 I love KPOP so much!
 #### 📫 How to reach me: vjay.tangub@gmail.com
